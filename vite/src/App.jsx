@@ -202,14 +202,14 @@ const App = () => {
             <h1 style={{ marginBottom: "20px" }}>Pet owners trust us to look after the needs of their beloved companions. We are specialists committed to delivering the very highest of veterinary care and affection.</h1>
             <Buttons className={"bg-[#FFA992] text-white rounded-[20px] xl:p-[10px_25px]  sm:p-[5px_8px]"} text={"Contact Us Now"} />
           </div>
-          
+
 
           <img src={sag3} alt="" className="xl:w-[40%]" />
 
         </AllDiv>
       </div>
 
-          <Footer/>
+      <Footer />
 
     </>
   )
